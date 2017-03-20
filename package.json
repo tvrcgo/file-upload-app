@@ -1,0 +1,19 @@
+{
+  "name": "file-upload-app",
+  "version": "0.1.0",
+  "description": "",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon test.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.1.1",
+    "koa": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "author": "tvrcgo",
+  "license": "ISC"
+}
